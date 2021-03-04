@@ -1,2 +1,2 @@
 # nodechain
-BlockChain in NodeJs and Typescript
+BlockChain in NodeJs using Typescript
